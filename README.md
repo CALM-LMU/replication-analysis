@@ -43,7 +43,7 @@ Fine adjustment of parameters (e.g. blur radii, quantiles for normalization, ...
 
 The path of the output CSV files can be specified in the ```df_edu.to_csv()``` and ```df_agg.to_csv()``` calls.
 
-## 4) Visualization and analysis on get_features
+## 4) Visualization and analysis on features
 
 Code for plotting histograms of RFi volume and Distance from periphery can be found at the end of ```replication_feature_extraction.ipynb```.
 
